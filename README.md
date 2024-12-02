@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Muhammad Saad!
+# 👋 Hey there, I'm Muhammad Saad Ullah!
 ### 💎 Passionate Coder | Educator | Tech Explorer
 I'm a Senior React Native Developer with 4+ years of experience, currently crafting seamless mobile experiences at [CMOLDS Technologies](https://www.cmolds.com/). I love turning ideas into powerful apps that combine functionality and elegance.<br><br>🚀 Tech Stack<br>Languages: HTML5, CSS3, JavaScript, Swift, Kotlin<br>Frameworks: React.js, React Native, Node.js, SwiftUI, Jetpack Compose<br>Databases: Firebase, MongoDB, SQL<br>Tools: GraphQL, Figma<br>Passions: Building cross-platform mobile apps, optimizing performance, and exploring new tech trends.<br><br>📱 My Personal Projects<br>Loa AI: An AI assistant powered by GPT-4, enabling natural conversations and stunning AI art generation.<br> [Check it out on the App Store!](https://apps.apple.com/us/app/ai-chatbot-assistant-loa/id6670730101) <br><br>📚 Interests<br>Books, fitness, & travelling<br><br>🤝 Let's Collaborate!<br>I'm always open to exciting projects and ideas. Let's build something amazing together!<br><br>📧 Email: msaadullah04@gmail.com<br>
 
